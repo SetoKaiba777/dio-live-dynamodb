@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Led Zeppelin"},
+                  "SongTitle": {"S": "Whole Lotta Love"},
+                  "AlbumTitle": {"S": "Led Zeppelin II"},
+                  "SongYear": {"S": "1969"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Led Zeppelin"},
+                  "SongTitle": {"S": "Black Dog"},
+                  "AlbumTitle": {"S": "Led Zeppelin IV"},
+                  "SongYear": {"S": "1971"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Led Zeppelin"},
+                  "SongTitle": {"S": "Stairway to Heaven"},
+                  "AlbumTitle": {"S": "Led Zeppelin IV"},
+                  "SongYear": {"S": "1971"}
                 }
             }
         }
